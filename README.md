@@ -230,6 +230,17 @@ Some datasets provide a **C5M** format with detailed metadata and covariance dat
 * NIM A 888 (2018) 31 — *EXFOR Web Database & Tools*
 
 ---
+
+## Development Acknowledgment
+
+The EXFOR client was developed with support of the URSA agentic AI from the LANL ArtIMis project.
+
+<a href="https://github.com/lanl/ursa"><img src="https://github.com/lanl/ursa/raw/main/logos/logo.png" alt="URSA Logo" width="200" height="200">
+<img src="https://github.com/lanl/ursa/raw/main/logos/artimis.png" alt="ArtIMis Logo" width="200" height="200">
+
+
+
+---
 ## License Information for the EXFOR Client (O5000)
 
 This program is Open-Source under the BSD-3 License.
